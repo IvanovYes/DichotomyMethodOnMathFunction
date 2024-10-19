@@ -1,5 +1,3 @@
-![DataStructure](https://github.com/user-attachments/assets/a3ad724a-bfd1-44ac-954f-9fe41ac55fdf)# DichotomyMethodOnMathFunction
-
 Описание алгоритма:
 Алгоритм методом дихотомии ищет корень уравнения F(x)=0 на отрезке [a,b] с заданной погрешностью E. Используется в качестве F(x) формулу и значения границ отрезка a=0.1 и b=1.
 
