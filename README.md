@@ -21,3 +21,16 @@ log(x) – возвращает натуральный логарифм числ
 
 Состав данных:
 ![DataStructure](https://github.com/user-attachments/assets/d2db3d0d-6313-48a2-b567-0e14d905c1fa)
+
+Тестирование программы:
+тестирование функции 1:
+![Test1](https://github.com/user-attachments/assets/bc69311f-4b68-48ba-b845-7299641c17a4)
+
+![F1](https://github.com/user-attachments/assets/5f5a036b-7f88-4fef-9815-14202e72f852)
+
+тестирование функции 2:
+![Test2](https://github.com/user-attachments/assets/974760a6-e235-44b7-8957-334e424299e0)
+
+![F2](https://github.com/user-attachments/assets/c11f0232-d8d8-4ef6-91cc-0d950c6fcfaa)
+
+
