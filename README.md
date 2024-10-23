@@ -9,6 +9,7 @@
 (допустимая погрешность значения корня).
 
 Блок схема алгоритма нахождения корней функции:
+
 ![ShemaAlgoritm](https://github.com/user-attachments/assets/6d1dc18d-2cb6-453a-a0ae-fdbd3b00e407)
 
 
