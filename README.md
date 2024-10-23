@@ -13,12 +13,6 @@
 ![ShemaAlgoritm](https://github.com/user-attachments/assets/6d1dc18d-2cb6-453a-a0ae-fdbd3b00e407)
 
 
-fabs – возвращает модуль числа;
-sqrt – возвращает квадратный корень числа;
-pow(x,y) – возводит число x в степень y;
-exp(x) – возводит экспоненту в степень x;
-sin(x) – возвращает синус числа;
-log(x) – возвращает натуральный логарифм числа x;
 
 Состав данных:
 ![DataStructure](https://github.com/user-attachments/assets/d2db3d0d-6313-48a2-b567-0e14d905c1fa)
